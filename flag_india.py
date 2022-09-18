@@ -61,20 +61,19 @@ turtle.forward(35)
 
 for x in range(20):
     
-    turtle.left(9.158333)
+    turtle.left(15)
     turtle.forward(35)
     turtle.left(180)
     turtle.forward(70)
     turtle.left(180)
     turtle.forward(35)
-# turtle.left(9.1583333)
+turtle.left(60)
 turtle.up()
-turtle.left(180)
 turtle.forward(105)
 turtle.down()
 
 turtle.pencolor("black")
-turtle.left(86.75)
+turtle.left(90)
 turtle.forward(400)
 
 turtle.fillcolor("brown")
@@ -88,12 +87,7 @@ turtle.forward(10)
 turtle.right(90)
 turtle.forward(20)
 turtle.end_fill()
-
-
-
-
-
-
+ 
 
 
 turtle.done()
